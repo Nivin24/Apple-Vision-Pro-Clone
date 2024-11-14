@@ -289,12 +289,10 @@ body{
 }
 #page5>.head>h3{
     top: 50px;
-    /* background-color: aqua; */
     text-align: center;
     font-size: 22px;
 }
 #page5>.head>h1{
-    /* background-color: lightblue; */
     text-align: center;
     font-size: 75px;
 }
@@ -358,12 +356,10 @@ body{
 }
 #page6>.head>h3{
     top: 50px;
-    /* background-color: aqua; */
     text-align: center;
     font-size: 22px;
 }
 #page6>.head>h1{
-    /* background-color: lightblue; */
     text-align: center;
     font-size: 75px;
 }
@@ -428,12 +424,10 @@ body{
 }
 #page7>.head>h3{
     top: 50px;
-    /* background-color: aqua; */
     text-align: center;
     font-size: 22px;
 }
 #page7>.head>h1{
-    /* background-color: lightblue; */
     text-align: center;
     font-size: 75px;
 }
@@ -497,12 +491,10 @@ body{
 }
 #page8>.head>h3{
     top: 50px;
-    /* background-color: aqua; */
     text-align: center;
     font-size: 22px;
 }
 #page8>.head>h1{
-    /* background-color: lightblue; */
     text-align: center;
     font-size: 75px;
 }
@@ -566,12 +558,10 @@ body{
 }
 #page9>.head>h3{
     top: 50px;
-    /* background-color: aqua; */
     text-align: center;
     font-size: 22px;
 }
 #page9>.head>h1{
-    /* background-color: lightblue; */
     text-align: center;
     font-size: 75px;
 }
@@ -635,12 +625,10 @@ body{
 }
 #page10>.head>h3{
     top: 50px;
-    /* background-color: aqua; */
     text-align: center;
     font-size: 22px;
 }
 #page10>.head>h1{
-    /* background-color: lightblue; */
     text-align: center;
     font-size: 75px;
 }
@@ -760,7 +748,6 @@ body{
 #page12{
     width: 100vw;
     height: 120vh;
-    /* background-color: lightblue; */
 }
 #page12>img{
     width: 100vw;
@@ -788,7 +775,6 @@ body{
 #page13{
     width: 100vw;
     height: 250vh;
-    /* background-color: lightblue; */
     padding: 4% 4%;
 }
 #page13>#img-1{
@@ -941,7 +927,6 @@ body{
     margin-left: 50vw;
     padding-left: 10vh;
     height: auto;
-    /* background-color: lightblue; */
 }
 #page16>.para>h1{
     color: #fff;
@@ -1356,7 +1341,6 @@ body{
 #page21>.lastContent>.part2{
     width: 70vw;
     height: 85vh;
-    /* background-color:lightblue; */
 }
 #page21>.lastContent>.part2>.nav1{
     padding-left: 7px;
@@ -1521,7 +1505,6 @@ body{
 }
 #final-footer-p{
     float: left;
-    /* background-color: #000; */
 }
 #page21>.lastContent>.part2>hr{
     margin: 3vh 0.5vw;
